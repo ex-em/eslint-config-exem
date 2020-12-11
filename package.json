@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-exem",
+  "version": "2.1.0",
+  "description": "Exem JavaScript Coding Conventions rules for eslint",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^7.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ex-em/eslint-config-exem.git"
+  },
+  "author": "EXEM",
+  "license": "MIT"
+}
