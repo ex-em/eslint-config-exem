@@ -629,7 +629,7 @@
 **[⬆ back to top](#목차)**
 
 ## 함수 (Functions)
-> `7.1~7.2` 항목을 제외하고는 Airbnb와 동일합니다.
+> `7.1~7.2`, `7.15` 항목을 제외하고는 Airbnb와 동일합니다.
 
 <a name="functions--declarations"></a><a name="7.1"></a>
 - [7.1](#functions--declarations) 함수 스타일에 대해서는 별도의 스타일 가이드를 제공하지 않는다. eslint: [`func-style`](https://eslint.org/docs/rules/func-style)
@@ -910,7 +910,7 @@
 
 <a name="functions--signature-invocation-indentation"></a>
 - [7.15](#functions--signature-invocation-indentation)
-  여러 줄의 시그니처 또는 호출을 취하는 함수는 이 가이드에 있는 다른 것들처럼 들여쓰기가 되어야 합니다. 한줄에 각 항목을 하나씩 두고, 마지막 항목에 쉼표를 넣습니다. eslint: [`function-paren-newline`](https://eslint.org/docs/rules/function-paren-newline)
+  여러 줄의 시그니처 또는 호출을 취하는 함수는 이 가이드에 있는 다른 것들처럼 들여쓰기가 되어야 합니다. 한줄에 각 항목을 하나씩 두고, 마지막 항목에 쉼표를 넣습니다.(function 제외) eslint: [`function-paren-newline`](https://eslint.org/docs/rules/function-paren-newline)
 
   ```javascript
   // bad
@@ -924,7 +924,7 @@
   function foo(
     bar,
     baz,
-    quux,
+    quux
   ) {
     // ...
   }
