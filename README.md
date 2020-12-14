@@ -25,7 +25,7 @@ module.exports = {
 
 ## EXEM JavaScript Style Guide
 
-[JavaScript Style Guide]()
+[JavaScript Style Guide](https://github.com/ex-em/eslint-config-exem/blob/master/STYLE-GUIDE.md)
 
 ## License
 
