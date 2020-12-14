@@ -12,5 +12,8 @@ module.exports = {
         functions: 'never',
       },
     ],
+
+    "func-names": "off",
+    // "func-names": "warn", // airbnb
   },
 };
