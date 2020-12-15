@@ -15,5 +15,8 @@ module.exports = {
 
     "wrap-iife": ["error", "inside", { functionPrototypeMethods: false }],
     // "wrap-iife": ["error", "outside", { functionPrototypeMethods: false }], //airbnb
+
+    "curly": "error",
+    // curly: ["error", "multi-line"],
   },
 };
