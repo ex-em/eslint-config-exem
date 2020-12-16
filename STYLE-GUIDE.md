@@ -1647,7 +1647,7 @@
 **[⬆ back to top](#목차)**
 
 ## 변수 (Variables)
-> `13.7`을 제외하고 Airbnb와 같습니다.
+> `13.6`을 제외하고 Airbnb와 같습니다.
 
 <a name="variables--const"></a><a name="13.1"></a>
 - [13.1](#variables--const) 변수를 선언할 때는 항상 `const`나 `let`을 사용하세요. 이렇게 하지 않으면 전역 변수로 선언됩니다. 우리는 전역 네임스페이스를 오염시키지 않기를 바랍니다. Captain Planet이 우리에게 경고했어요. eslint: [`no-undef`](https://eslint.org/docs/rules/no-undef) [`prefer-const`](https://eslint.org/docs/rules/prefer-const)
@@ -1783,7 +1783,7 @@
   ```
 
 <a name="variables--unary-increment-decrement"></a><a name="13.6"></a>
-- [13.6] ++, -- 연산자 사용이 가능하다. 연산자와 피연산자 사이에 공백을 두지 않는다. eslint [`no-plusplus`](https://eslint.org/docs/rules/no-plusplus)
+- [13.6](#variables--no-plusplus) ++, -- 연산자 사용이 가능하다. 연산자와 피연산자 사이에 공백을 두지 않는다. eslint [`no-plusplus`](https://eslint.org/docs/rules/no-plusplus)
 
   ```javascript
   // bad
