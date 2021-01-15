@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-exem",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Exem JavaScript Coding Conventions rules for eslint",
   "main": "index.js",
   "dependencies": {
