@@ -1,5 +1,3 @@
-const confusingBrowserGlobals = require('confusing-browser-globals');
-
 module.exports = {
   rules: {
     // enforce or disallow variable initializations at definition
