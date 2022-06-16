@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-exem-frondend",
+  "name": "eslint-config-exem-frontend",
   "version": "3.2.0",
   "description": "Exem JavaScript Coding Conventions rules for eslint",
   "main": "index.js",
